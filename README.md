@@ -78,6 +78,7 @@ PROJECT STRUCTURE:
 /gan_models/             # GAN implementations
 /style_transfer/         # Real-time style transfer implementation
 /i2i_transformer/        # Image-to-image transformer implementation
+/models/                 # Trained ML models 
 /notebooks/              # Ipynb notebooks containing experiments
 /docs/                   # Documentation of experiments and results
 requirements.txt         # Dependencies
