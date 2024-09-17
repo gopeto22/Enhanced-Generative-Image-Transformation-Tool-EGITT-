@@ -6,17 +6,17 @@ The Enhanced Generative Image Transformation Tool (EGITT) is a project focused o
 This repository includes the code and resources for implementing various GAN architectures and a real-time style transfer model.
 
 FEATURES:
-GAN Implementations:
-Standard GAN
-Wasserstein GAN (WGAN) with Weight Clipping
-Conditional Wasserstein GAN
-Wasserstein GAN with Gradient Penalty (WGAN-GP)
-Style Transfer:
-Real-time style transfer model that applies the style of one image to the content of another in real-time.
-Evaluation Framework:
-Quantitative metrics such as Fréchet Inception Distance (FID) and Inception Score (IS).
-Qualitative evaluations including user studies and peer feedback on style-transferred images.
-Installation
+- GAN Implementations:
+- Standard GAN
+- Wasserstein GAN (WGAN) with Weight Clipping
+- Conditional Wasserstein GAN
+- Wasserstein GAN with Gradient Penalty (WGAN-GP)
+- Style Transfer:
+* Real-time style transfer model that applies the style of one image to the content of another in real-time.
+- Evaluation Framework:
+* Quantitative metrics such as Fréchet Inception Distance (FID) and Inception Score (IS).
+* Qualitative evaluations including user studies and peer feedback on style-transferred images.
+- Installation
 
 PREREQUISITES:
 Before you begin, ensure you have the following installed:
