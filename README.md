@@ -78,7 +78,7 @@ PROJECT STRUCTURE:
 /gan_models/             # GAN implementations
 /style_transfer/         # Real-time style transfer implementation
 /i2i_transformer/        # Image-to-image transformer implementation
-/evaluation/             # Evaluation metrics and scripts (FID, IS)
+/notebooks/              # Ipynb notebooks containing experiments
 /docs/                   # Documentation of experiments and results
 requirements.txt         # Dependencies
 README.md                # Project overview and instructions
